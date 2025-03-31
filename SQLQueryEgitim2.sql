@@ -139,7 +139,7 @@
 
 --SELECT NAME1,NAME2,NAME3,NAME4,NAME5,NAME6,NAME7,NAME8 FROM CUSTOMERS2
 
-
+--SELECT * FROM CUSTOMERS2
 
                                                                       
 																	  
